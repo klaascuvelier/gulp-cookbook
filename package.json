@@ -1,0 +1,33 @@
+{
+  "name": "gulp-cookbook",
+  "version": "0.0.1",
+  "description": "A collection of frequently used gulp recipes grouped into a nice \"cookbook\"",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.8.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klaascuvelier/gulp-cookbook"
+  },
+  "keywords": [
+    "gulp",
+    "recipes",
+    "cookbook",
+    "build",
+    "serve",
+    "dist",
+    "test",
+    "quality"
+  ],
+  "author": "Klaas Cuvelier <cuvelierklaas@gmail.com> (http://klaascuvelier.be/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klaascuvelier/gulp-cookbook/issues"
+  },
+  "homepage": "https://github.com/klaascuvelier/gulp-cookbook"
+}
