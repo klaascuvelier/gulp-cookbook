@@ -4,6 +4,8 @@ A collection of frequently used gulp recipes grouped into a nice "cookbook"
 Trying to remove the gulp boilerplate
  
  
+** WORK IN PROGRESS **
+ 
 # Recipes
  
 ## Building
@@ -28,6 +30,6 @@ Trying to remove the gulp boilerplate
 
 ## Testing
 
-**karma**
+- **karma**
 
 - **flowtype**
