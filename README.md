@@ -33,3 +33,7 @@ Trying to remove the gulp boilerplate
 - **karma**
 
 - **flowtype**
+
+## Templating
+
+- **swig**
