@@ -18,6 +18,8 @@ Trying to remove the gulp boilerplate
 
 - **buildIconFont**
 
+- **swig**
+
 ## Quality
 
 - **jshint**
@@ -33,7 +35,3 @@ Trying to remove the gulp boilerplate
 - **karma**
 
 - **flowtype**
-
-## Templating
-
-- **swig**
