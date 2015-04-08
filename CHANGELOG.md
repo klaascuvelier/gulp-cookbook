@@ -1,5 +1,8 @@
 ## Gulp Cookbook changelog
 
+### 0.0.6
+Add option for not minifying JS
+
 ### 0.0.5
 Bugfix watching recipe
 
