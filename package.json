@@ -16,7 +16,8 @@
     "gulp-uglify": "1.1.x",
     "gulp-watch": "4.2.x",
     "gulp-webserver": "0.9.x",
-    "lodash": "2.4.x"
+    "lodash": "2.4.x",
+    "through2": "^0.6.3"
   },
   "devDependencies": {},
   "scripts": {
