@@ -7,6 +7,8 @@
     "gulp": "3.8.x",
     "gulp-babel": "4.0.x",
     "gulp-concat": "2.4.x",
+    "gulp-consolidate": "0.1.x",
+    "gulp-iconfont": "1.0.x",
     "gulp-less": "3.0.x",
     "gulp-minify-css": "0.4.x",
     "gulp-ng-annotate": "0.5.x",
