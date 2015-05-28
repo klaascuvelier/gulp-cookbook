@@ -1,5 +1,8 @@
 ## Gulp Cookbook changelog
 
+### 0.0.7
+Add icon font building
+
 ### 0.0.6
 Add option for not minifying JS
 
