@@ -1,5 +1,8 @@
 ## Gulp Cookbook changelog
 
+### 0.0.10
+Fix for es6 building
+
 ### 0.0.9
 Make source maps optional
 

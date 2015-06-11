@@ -1,6 +1,6 @@
 {
   "name": "gulp-cookbook",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "A collection of frequently used gulp recipes grouped into a nice \"cookbook\"",
   "main": "index.js",
   "dependencies": {
@@ -19,7 +19,7 @@
     "gulp-watch": "4.2.x",
     "gulp-webserver": "0.9.x",
     "lodash": "2.4.x",
-    "through2": "^0.6.3"
+    "through2": "2.0.0"
   },
   "devDependencies": {},
   "scripts": {
