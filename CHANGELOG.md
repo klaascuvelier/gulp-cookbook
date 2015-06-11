@@ -1,5 +1,8 @@
 ## Gulp Cookbook changelog
 
+### 0.0.9
+Make source maps optional
+
 ### 0.0.8
 Extra option for icon font building (change the path of the font in the css/less file)
 
