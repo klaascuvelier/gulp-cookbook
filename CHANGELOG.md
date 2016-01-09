@@ -1,5 +1,10 @@
 ## Gulp Cookbook changelog
 
+### 0.0.13
+Update to babel6
+
+### 0.0.12
+
 ### 0.0.11
 Fix for sourcemaps
 
