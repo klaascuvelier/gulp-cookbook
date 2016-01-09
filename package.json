@@ -4,8 +4,9 @@
   "description": "A collection of frequently used gulp recipes grouped into a nice \"cookbook\"",
   "main": "index.js",
   "dependencies": {
+    "babel-preset-es2015": "6.3.13",
     "gulp": "3.9.x",
-    "gulp-babel": "4.0.x",
+    "gulp-babel": "4.0.1",
     "gulp-concat": "2.4.x",
     "gulp-less": "3.0.x",
     "gulp-minify-css": "0.4.x",
